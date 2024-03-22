@@ -1,0 +1,26 @@
+.perfil {
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+body{
+    background-color: #f2f2f2;
+}
+
+.cardPerfil{
+    background-color: black ;
+    color: white;
+
+}
+
+.motos{
+    border-radius: 10px;
+}
+
+.texto{
+    color: black;
+    font-size: large;
+    font-family: monospace;
+    font: bold;
+}
